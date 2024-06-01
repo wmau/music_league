@@ -40,7 +40,7 @@ BOS BOPS,1,Jen Tsang,Back To Me,Sean Wong,0,"honorable mention for me! Haven’t
 BOS BOPS,1,Jen Tsang,Back To Me,Chris Podracky,-1,
 BOS BOPS,1,Will Mau,ETA,Richard Hill,1,Catchy and kind of stressful. Stop asking for my ETA. This one fit Mau's ear worm test of getting stuck in my head.
 BOS BOPS,1,Will Mau,ETA,Jackie Wu,1,
-BOS BOPS,1,Will Mau,ETA,Sean Wong,1,I’m going to use this at work for project deadlines
+BOS BOPS,1,Will Mau,ETA,Sean Wong,0,I’m going to use this at work for project deadlines
 BOS BOPS,1,Will Mau,ETA,Chris Podracky,0,Super Shy or OMG would’ve got a vote from me
 BOS BOPS,1,Will Mau,ETA,Alex Chao,-1,
 BOS BOPS,1,Alex Chao,Hard Times,June Wang,1,
@@ -263,7 +263,7 @@ BOS BOPS,3,Michelle Wang,Used To Be Young,Alex Mui,0,"I feel this deep in my sou
 BOS BOPS,3,Michelle Wang,Used To Be Young,Chris Podracky,-1,I’m sorry Miley
 BOS BOPS,3,Chris Podracky,Scarborough Fair / Canticle,Will Mau,1,Classic
 BOS BOPS,3,Chris Podracky,Scarborough Fair / Canticle,Jackie Wu,0,Almost was gonna be the -1 but I disliked another more.
-BOS BOPS,3,Chris Podracky,Scarborough Fair / Canticle,Donna Koo,0,This reminds me of Christmas choral hymns 🙈
+BOS BOPS,3,Chris Podracky,Scarborough Fair / Canticle,Donna Koo,-1,This reminds me of Christmas choral hymns 🙈
 BOS BOPS,4,Richard Hill,Unholy Matrimony,Will Mau,2,Wtf this song was made for this category
 BOS BOPS,4,Richard Hill,Unholy Matrimony,Jackie Wu,2,Holy shit this on the money. Well done.
 BOS BOPS,4,Richard Hill,Unholy Matrimony,Alex Mui,2,++ Giveon
@@ -293,7 +293,7 @@ BOS BOPS,4,Jackie Wu,Bust Your Windows,Jen Tsang,1,
 BOS BOPS,4,Jackie Wu,Bust Your Windows,Donna Koo,1,
 BOS BOPS,4,Jackie Wu,Bust Your Windows,Alex Mui,1,"Well, Carrie did. There's enough room for two vengeful queens 👑👑"
 BOS BOPS,4,Jackie Wu,Bust Your Windows,Michelle Wang,1,
-BOS BOPS,4,Jackie Wu,Bust Your Windows,Chris Podracky,1,"Knock off Before He Cheats, which I also did not vote for"
+BOS BOPS,4,Jackie Wu,Bust Your Windows,Chris Podracky,0,"Knock off Before He Cheats, which I also did not vote for"
 BOS BOPS,4,Jen Tsang,You Give Love A Bad Name,Donna Koo,1,I never heard this before but i like it
 BOS BOPS,4,Jen Tsang,You Give Love A Bad Name,Alex Mui,1,Can never not sing along
 BOS BOPS,4,Jen Tsang,You Give Love A Bad Name,Michelle Wang,1,
@@ -442,8 +442,8 @@ BOS BOPS,5,Sean Wong,I Hate Cardio,Michelle Wang,1,
 BOS BOPS,5,Sean Wong,I Hate Cardio,Will Mau,0,Morally I can't vote for this because it doesn't pump me up but I appreciate the irony and I also share your hatred for cardio. And I like the song
 BOS BOPS,5,Sean Wong,I Hate Cardio,Jackie Wu,0,Fax. No printer. I appreciate the song and message but ain’t pump up for me.
 BOS BOPS,5,Sean Wong,I Hate Cardio,Alex Mui,0,"This is a fun, new one for me! However, not the energy I look for"
-BOS BOPS,5,Sean Wong,I Hate Cardio,Jen Tsang,0,
-BOS BOPS,5,Sean Wong,I Hate Cardio,Tammy Liaw,0,"Sorry but if I didn't know the song title and listen to the lyrics, this is what I imagine for a city montage background song"
+BOS BOPS,5,Sean Wong,I Hate Cardio,Jen Tsang,-1,
+BOS BOPS,5,Sean Wong,I Hate Cardio,Tammy Liaw,-1,"Sorry but if I didn't know the song title and listen to the lyrics, this is what I imagine for a city montage background song"
 BOS BOPS,5,Richard Hill,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Sean Wong,1,Chris’s video is what sold it for me
 BOS BOPS,5,Richard Hill,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,June Wang,1,This is one of the songs on my sister’s running playlist!
 BOS BOPS,5,Richard Hill,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Donna Koo,0,Other possible Richard contender
@@ -491,8 +491,8 @@ BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Anna Mai,1,Omg is this a Chinese cove
 BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Will Mau,1,
 BOS BOPS,6,Jackie Wu,Take Me to Your Heart,June Wang,1,
 BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Alex Chao,1,
-BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Chris Podracky,1,"Conflicted. On the one hand, I don’t especially like the cover. On the other, I had never heard the original and I can’t stop listening to it. So thank you. But also sorry that I didn’t give this an upvote."
-BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Alex Mui,1,"I wanted to upvote this, but it doesn't hit like the og"
+BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Chris Podracky,0,"Conflicted. On the one hand, I don’t especially like the cover. On the other, I had never heard the original and I can’t stop listening to it. So thank you. But also sorry that I didn’t give this an upvote."
+BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Alex Mui,0,"I wanted to upvote this, but it doesn't hit like the og"
 BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Jen Tsang,-1,I wanted to like this but for some reason this made cringe 😅 Feels like it doesn’t do the og justice
 BOS BOPS,6,Alex Mui,Moon River,Sean Wong,1,lol the gif. This cover is hauntingly beautiful
 BOS BOPS,6,Alex Mui,Moon River,Will Mau,1,
@@ -634,7 +634,7 @@ BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Donna 
 BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Jackie Wu,0,-1 for squeak. +1 cause I want a hippopotamus too.
 BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Chris Podracky,0,"Feel bad downvoting a child, even if she’s older than me now, so I won’t"
 BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Tammy Liaw,0,+1 for originality but -1 because it's such a squirrel voice I'm sorry
-BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Sean Wong,0,"Sorry, this song is cute for the first listen each year, but I've already hit my quota"
+BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Sean Wong,-1,"Sorry, this song is cute for the first listen each year, but I've already hit my quota"
 BOS BOPS,7,Michelle Wang,Like It's Christmas,Sean Wong,0,"Ah runner-up for me. ""You make everyday feel like it's Christmas"" is basically everyone's relationship with Michelle, for better or worse"
 BOS BOPS,7,Michelle Wang,Like It's Christmas,Chris Podracky,0,"Of the Christmas songs that get used in a lot of commercials, this is one of the more tolerable ones"
 BOS BOPS,7,Chris Podracky,Last Christmas,Richard Hill,1,
@@ -716,3 +716,210 @@ BOS BOPS,8,Anna Mai,Magic Shop,Jackie Wu,-1,Anna. Truly a worse decision than pe
 BOS BOPS,8,Anna Mai,Magic Shop,Chris Podracky,-1,"This is the best song on here. Without looking at play count I wouldn’t have downvoted because I agree it’s underrated. >300M plays is wild tho. This would be EXO or Red Velvet’s second biggest hit. It would be the most played song for Aespa, MAMAMOO, 2NE1, Super Junior, BIGBANG, or Girl’s Generation. It’s a small slice of the BTS pie, but that pie is so colossal that the slice winds up being more than I can eat."
 BOS BOPS,8,Anna Mai,Magic Shop,Alex Chao,-1,
 BOS BOPS,8,Anna Mai,Magic Shop,Tammy Liaw,-1,
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Will Mau,2,Yup
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Richard Hill,1,
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Sean Wong,1,definitely on one of the few CDs that my parents continue to listen to on repeat
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Donna Koo,1,I can’t not upvote this 🥺 all the feels and a great karaoke song
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Michelle Wang,1,
+BOS BOPS,9,Jackie Wu,月亮代表我的心,June Wang,1,
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Alex Chao,1,
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Alex Mui,-1,"I don't dislike any of these songs, but this is the one I'm least likely to replay"
+BOS BOPS,9,Michelle Wang,Right Here Waiting,Will Mau,2,Oh yes this was played in our house very often
+BOS BOPS,9,Michelle Wang,Right Here Waiting,Donna Koo,2,Ohhhh I heard this song before but never knew what it was called 🥺🫶🏼 all the upvotessss
+BOS BOPS,9,Michelle Wang,Right Here Waiting,Jackie Wu,1,Yes. 100% yes.
+BOS BOPS,9,Michelle Wang,Right Here Waiting,Alex Mui,1,This was my backup pick!
+BOS BOPS,9,Michelle Wang,Right Here Waiting,Tammy Liaw,1,A good oldie
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Sean Wong,1,
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Jackie Wu,1,Damn I forgot about this song
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Michelle Wang,1,
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,June Wang,1,
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Alex Chao,1,
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Tammy Liaw,1,
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Chris Podracky,-1,This is the ickiest I’ve felt to date about having to downvote. I don’t think we should have to downvote this category. I think falling asleep to cheesy power ballads sounds nice tbh. I’m sorry.
+BOS BOPS,9,Chris Podracky,Run-Around,Richard Hill,1,
+BOS BOPS,9,Chris Podracky,Run-Around,Jackie Wu,1,
+BOS BOPS,9,Chris Podracky,Run-Around,Alex Mui,1,
+BOS BOPS,9,Chris Podracky,Run-Around,Michelle Wang,1,
+BOS BOPS,9,Chris Podracky,Run-Around,June Wang,1,
+BOS BOPS,9,Chris Podracky,Run-Around,Tammy Liaw,1,
+BOS BOPS,9,Chris Podracky,Run-Around,Sean Wong,0,haha so cute
+BOS BOPS,9,Chris Podracky,Run-Around,Alex Chao,-1,
+BOS BOPS,9,Donna Koo,沉默是金,Richard Hill,1,
+BOS BOPS,9,Donna Koo,沉默是金,Will Mau,1,
+BOS BOPS,9,Donna Koo,沉默是金,Chris Podracky,1,
+BOS BOPS,9,Donna Koo,沉默是金,June Wang,1,
+BOS BOPS,9,Donna Koo,沉默是金,Sean Wong,0,🥹
+BOS BOPS,9,Donna Koo,沉默是金,Alex Mui,0,RIP Leslie 😢
+BOS BOPS,9,Sean Wong,"Signed, Sealed, Delivered (I'm Yours)",Jackie Wu,1,
+BOS BOPS,9,Sean Wong,"Signed, Sealed, Delivered (I'm Yours)",Chris Podracky,1,
+BOS BOPS,9,Sean Wong,"Signed, Sealed, Delivered (I'm Yours)",Michelle Wang,1,
+BOS BOPS,9,Sean Wong,"Signed, Sealed, Delivered (I'm Yours)",June Wang,1,
+BOS BOPS,9,Tammy Liaw,Dancing Queen,Donna Koo,1,A classic
+BOS BOPS,9,Tammy Liaw,Dancing Queen,Jackie Wu,1,
+BOS BOPS,9,Tammy Liaw,Dancing Queen,Alex Mui,1,ABBA Gold was a road trip staple
+BOS BOPS,9,Tammy Liaw,Dancing Queen,Alex Chao,1,
+BOS BOPS,9,Tammy Liaw,Dancing Queen,Sean Wong,-1,"sorry sorry, blasphemous to downvote ABBA but the other descriptions and songs were just hitting a bit harder this time"
+BOS BOPS,9,Will Mau,"愛不疚 - (劇集 ""溏心風暴之家好月圓"" 片尾曲)",Sean Wong,1,"🥰😮 wow this brought back so many mems, this series was so good"
+BOS BOPS,9,Will Mau,"愛不疚 - (劇集 ""溏心風暴之家好月圓"" 片尾曲)",Donna Koo,1,I love this song! And series 🥺
+BOS BOPS,9,Will Mau,"愛不疚 - (劇集 ""溏心風暴之家好月圓"" 片尾曲)",Tammy Liaw,1,I don't know this but also kind of seems like my parents' vibes
+BOS BOPS,9,June Wang,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",Richard Hill,1,
+BOS BOPS,9,June Wang,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",Sean Wong,1,!!! I remember hearing this for the first time outside of Toys R Us and bopping along with my fam
+BOS BOPS,9,June Wang,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",Chris Podracky,1,My grandma’s favorite
+BOS BOPS,9,June Wang,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",Donna Koo,-1,It was very hard to pick one to downvote I’m sorry :(
+BOS BOPS,9,June Wang,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",Tammy Liaw,-1,I don't hate this song at all but I have to downvote one. And I do find the repetition .. repetitive
+BOS BOPS,9,Alex Chao,Kokomo,Sean Wong,1,
+BOS BOPS,9,Alex Chao,Kokomo,Chris Podracky,1,
+BOS BOPS,9,Alex Chao,Kokomo,Michelle Wang,1,
+BOS BOPS,9,Alex Chao,Kokomo,Richard Hill,-1,
+BOS BOPS,9,Alex Chao,Kokomo,Jackie Wu,-1,Sorry. I don’t hate it. I just don’t love it as much as the others? I think this on repeat would drive me mad faster than any of the others.
+BOS BOPS,9,Richard Hill,White Flag,Alex Mui,1,Adore the chorus
+BOS BOPS,9,Richard Hill,White Flag,Alex Chao,1,
+BOS BOPS,9,Richard Hill,White Flag,Donna Koo,0,Ooo I never heard of this artist before!
+BOS BOPS,9,Richard Hill,White Flag,Jackie Wu,0,Lolwat. Also def Celine over dodo. Dido*
+BOS BOPS,9,Richard Hill,White Flag,Will Mau,-1,I prefer Celine :P
+BOS BOPS,9,Richard Hill,White Flag,Michelle Wang,-1,
+BOS BOPS,9,Richard Hill,White Flag,June Wang,-1,I do love this song. But can’t agree with the Celine Dion hate 😠
+BOS BOPS,9,Anna Mai,愛是永恆,Richard Hill,1,
+BOS BOPS,9,Anna Mai,愛是永恆,Chris Podracky,1,
+BOS BOPS,9,Anna Mai,愛是永恆,Alex Mui,1,"Now, THIS Jacky, I stan.
+
+This was the first Jacky song I learned to karaoke (bc it's easier than 每天爱你多一些). Also still is my mom's ringtone for my older sister, a huge Jacky fan"
+BOS BOPS,9,Anna Mai,愛是永恆,Alex Chao,1,
+BOS BOPS,9,Anna Mai,愛是永恆,Tammy Liaw,1,This gives me huge karaoke vibes and I'm here for it
+BOS BOPS,9,Anna Mai,愛是永恆,Sean Wong,0,"wow, that ending verse 🔥"
+BOS BOPS,9,Anna Mai,愛是永恆,Will Mau,0,Never heard this one lol
+BOS BOPS,9,Anna Mai,愛是永恆,Donna Koo,0,Ooo never heard this before!
+BOS BOPS,10,June Wang,Fallin',Richard Hill,1,
+BOS BOPS,10,June Wang,Fallin',Sean Wong,1,so good
+BOS BOPS,10,June Wang,Fallin',Will Mau,1,
+BOS BOPS,10,June Wang,Fallin',Alex Chao,1,
+BOS BOPS,10,June Wang,Fallin',Tammy Liaw,1,
+BOS BOPS,10,Alex Mui,Supercut,Sean Wong,1,
+BOS BOPS,10,Alex Mui,Supercut,Will Mau,1,
+BOS BOPS,10,Alex Mui,Supercut,June Wang,1,
+BOS BOPS,10,Alex Mui,Supercut,Alex Chao,1,
+BOS BOPS,10,Alex Mui,Supercut,Tammy Liaw,1,
+BOS BOPS,10,Alex Chao,Burn,Chris Podracky,1,
+BOS BOPS,10,Alex Chao,Burn,Alex Mui,1,"SO MANY DAYS
+SO MANY HOURS
+I'M STILL BURNING TIL YOU RETUUUUUURN"
+BOS BOPS,10,Alex Chao,Burn,June Wang,1,
+BOS BOPS,10,Alex Chao,Burn,Tammy Liaw,1,Appropriate timing. Also impressed you didn't go for Yeah instead so have a vote
+BOS BOPS,10,Will Mau,アイドル,Richard Hill,1,feel like im playing ddr haha
+BOS BOPS,10,Will Mau,アイドル,Sean Wong,1,ooh bop
+BOS BOPS,10,Will Mau,アイドル,Chris Podracky,1,
+BOS BOPS,10,Will Mau,アイドル,Alex Mui,1,"The better ""Idol"""
+BOS BOPS,10,Will Mau,アイドル,Tammy Liaw,-1,This is a little too much for me
+BOS BOPS,10,Sean Wong,Timing,Richard Hill,1,new to me and I dig it!
+BOS BOPS,10,Sean Wong,Timing,June Wang,1,
+BOS BOPS,10,Tammy Liaw,Run,June Wang,1,
+BOS BOPS,10,Tammy Liaw,Run,Alex Chao,1,
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Will Mau,1,Sounds like the club scene in a cyberpunk movie where the main character beats the shit out of the henchman using their mechanical arm
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Alex Mui,1,I am a whore for a good Chris Cox/Thunderpuss mix
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Tammy Liaw,0,+1 for technicalities but I'm not a huge fan of the song sorry -1
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Sean Wong,-1,"lol clever, but the song was a bit too long for me. (Michelle, how much of this song did you hear?)"
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Chris Podracky,-1,Technically correct but a rough listen
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Alex Chao,-1,
+BOS BOPS,10,Chris Podracky,IDOL,Sean Wong,0,dang really good but just missed the cut for me
+BOS BOPS,10,Chris Podracky,IDOL,Tammy Liaw,0,I would -1 out of principle but somehow I still prefer this over the other idol and it pains me to say that
+BOS BOPS,10,Chris Podracky,IDOL,Richard Hill,-1,
+BOS BOPS,10,Donna Koo,Gasolina,Chris Podracky,2,🇵🇷
+BOS BOPS,10,Donna Koo,Gasolina,Richard Hill,1,⛽️ gas me up
+BOS BOPS,10,Donna Koo,Gasolina,Sean Wong,1,🔥⛽️ yooo
+BOS BOPS,10,Donna Koo,Gasolina,Will Mau,1,
+BOS BOPS,10,Donna Koo,Gasolina,Alex Mui,1,DURO
+BOS BOPS,10,Donna Koo,Gasolina,June Wang,1,
+BOS BOPS,10,Donna Koo,Gasolina,Alex Chao,1,
+BOS BOPS,10,Donna Koo,Gasolina,Tammy Liaw,1,I've always liked this song
+BOS BOPS,10,Jackie Wu,HIP,Richard Hill,1,
+BOS BOPS,10,Jackie Wu,HIP,Sean Wong,1,"ooh I like, this is super catchy"
+BOS BOPS,10,Jackie Wu,HIP,Will Mau,1,
+BOS BOPS,10,Jackie Wu,HIP,Chris Podracky,1,
+BOS BOPS,10,Jackie Wu,HIP,Alex Mui,1,
+BOS BOPS,10,Jackie Wu,HIP,Tammy Liaw,1,
+BOS BOPS,10,Jen Tsang,Numb / Encore,Alex Mui,1,
+BOS BOPS,10,Jen Tsang,Numb / Encore,Sean Wong,0,🤔 
+BOS BOPS,10,Jen Tsang,Numb / Encore,Chris Podracky,0,"Either of these individually would’ve got a vote from me, but I am a rule follower"
+BOS BOPS,10,Jen Tsang,Numb / Encore,Tammy Liaw,0,Wait did you just admit that these are two words in total? -1 for loopholing the brief but +1 for middle school days
+BOS BOPS,10,Jen Tsang,Numb / Encore,Will Mau,-1,"Literally two words that also semantically do not mean ""one word"""
+BOS BOPS,10,Jen Tsang,Numb / Encore,Alex Mui,-1,"+1 my favorite song of the bunch
+-2 Jay-Z and LP rerecorded their parts, soooo this is a new two-word song"
+BOS BOPS,10,Jen Tsang,Numb / Encore,June Wang,-1,"A classic but this song feels like it’s 
+cheating the prompt"
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Will Mau,2,Someone introduced me to Rina Sawayama in my other league and I'm a fan.
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Tammy Liaw,2,I dig this song a lot
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Richard Hill,1,
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Jackie Wu,1,
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Chris Podracky,1,
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Michelle Wang,1,
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Donna Koo,0,Ok your Tokyo is better than my Tokyo
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Chris Podracky,2,Wanted to give this +3. It’s in my heavy rotation but I somehow did not associate it with a location lol
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Alex Mui,2,
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Richard Hill,1,
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Jackie Wu,1,"Drift king or donkey Kong? Don’t matter, will always get my vote. 7-11 is the spot."
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",June Wang,1,
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Sean Wong,0,lol this has shown up in so many playlists
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Alex Mui,0,I can't sit through the chorus more than once (still a bop tho)
+BOS BOPS,11,Alex Chao,Location,Sean Wong,1,good at following the rules
+BOS BOPS,11,Alex Chao,Location,Will Mau,1,"Who keeps doing this? Whatever, this song bops"
+BOS BOPS,11,Alex Chao,Location,Donna Koo,1,+1 for cheekiness 🤣
+BOS BOPS,11,Alex Chao,Location,Jackie Wu,1,
+BOS BOPS,11,Alex Chao,Location,Alex Mui,1,
+BOS BOPS,11,Alex Chao,Location,Michelle Wang,1,
+BOS BOPS,11,Alex Chao,Location,June Wang,1,
+BOS BOPS,11,Alex Chao,Location,Chris Podracky,0,Cheeky
+BOS BOPS,11,Alex Chao,Location,Richard Hill,-1,
+BOS BOPS,11,Tammy Liaw,Boston,Richard Hill,1,
+BOS BOPS,11,Tammy Liaw,Boston,Donna Koo,1,I guess this is boscrew after all. Touché
+BOS BOPS,11,Tammy Liaw,Boston,Chris Podracky,1,Thought someone would do Shipping Up to Boston. This is preferable.
+BOS BOPS,11,Tammy Liaw,Boston,Alex Mui,1,Nathan & Haley forever
+BOS BOPS,11,Tammy Liaw,Boston,Michelle Wang,1,
+BOS BOPS,11,Tammy Liaw,Boston,June Wang,1,
+BOS BOPS,11,Tammy Liaw,Boston,Jackie Wu,0,No.
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Sean Wong,1,
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Donna Koo,1,🥺🥺
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Jackie Wu,1,V nice.
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Alex Mui,1,
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Michelle Wang,1,
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Tammy Liaw,1,
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Chris Podracky,0,Cheeky 
+BOS BOPS,11,Sean Wong,Montana Sky,Will Mau,1,Maybe I like the Jonas Brothers
+BOS BOPS,11,Sean Wong,Montana Sky,Michelle Wang,1,
+BOS BOPS,11,Sean Wong,Montana Sky,Alex Mui,1,
+BOS BOPS,11,Sean Wong,Montana Sky,Tammy Liaw,1,
+BOS BOPS,11,June Wang,Beverly Hills,Sean Wong,1,ooh classic but haven’t heard this in awhile and I rocked out to it
+BOS BOPS,11,June Wang,Beverly Hills,Jackie Wu,1,
+BOS BOPS,11,June Wang,Beverly Hills,Alex Mui,1,
+BOS BOPS,11,June Wang,Beverly Hills,Chris Podracky,0,Middle school me would’ve been all over this
+BOS BOPS,11,Richard Hill,Blue Ridge Mountains,Sean Wong,1,
+BOS BOPS,11,Richard Hill,Blue Ridge Mountains,Will Mau,1,I like this
+BOS BOPS,11,Richard Hill,Blue Ridge Mountains,Donna Koo,1,Fleet foxes 😍
+BOS BOPS,11,Richard Hill,Blue Ridge Mountains,Tammy Liaw,-1,
+BOS BOPS,11,Jackie Wu,The Sixth Station,Richard Hill,1,
+BOS BOPS,11,Jackie Wu,The Sixth Station,Sean Wong,1,
+BOS BOPS,11,Jackie Wu,The Sixth Station,Chris Podracky,0,Is this a real place?
+BOS BOPS,11,Jackie Wu,The Sixth Station,Michelle Wang,-1,
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Alex Mui,1,
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",June Wang,1,THE BOSS!
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Will Mau,0,Appreciate the specificity
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Tammy Liaw,0,+1 for such exactness but I'm not a huge fan sorry -1
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Sean Wong,-1,"sorry, too long of a song for my short attention span nowadays (am I become Michelle?)"
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Donna Koo,-1,
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Jackie Wu,-1,Appreciate the attn to detail but no. I am learning that I do not appreciate the classics.
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Alex Chao,-1,
+BOS BOPS,11,Michelle Wang,Closer,Alex Chao,1,
+BOS BOPS,11,Michelle Wang,Closer,Sean Wong,0,"Like the song but still traumatized from our Colorado playlist where there where 20 different versions, so this evens out"
+BOS BOPS,11,Michelle Wang,Closer,Jackie Wu,0,"Not good enough of a song to be a rule breaker. But jk, I hate another song more."
+BOS BOPS,11,Michelle Wang,Closer,Alex Mui,0,"I don't care what you (Mau) say. This might be generic with questionable vocals (it's edm-pop), and it may be more than a coincidence that Trump got elected the same year this dropped, but Closer is catchy AF. Who else united the whole world in singing about a stolen mattress and launched Boulder AND Tuscon into the global consciousness? That's Blink-182 levels of iconic. This is the song of a generation. I will defend The Chainsmokers til the day I die.
+
+Anyway, 0 points, no location in title."
+BOS BOPS,11,Michelle Wang,Closer,Will Mau,-1,Literally my least favorite song of all time sorry
+BOS BOPS,11,Michelle Wang,Closer,Chris Podracky,-1,Does not fit the rules. Mentioning Boulder thrice and Tucson once =\= iconic
+BOS BOPS,11,Michelle Wang,Closer,June Wang,-1,I’m traumatized by this song. I sat next to someone at work who would play this at maximum volume on repeat. I would hear this song play while walking around my office.
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Richard Hill,1,
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Donna Koo,1,Would love to be somewhere warm rn
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Chris Podracky,1,
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),June Wang,1,
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Alex Chao,1,
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Tammy Liaw,1,
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Alex Mui,-1,"This was so overplayed, I went from enjoying this song to hating it"

@@ -17,3 +17,10 @@ class Spotify:
         ][0]
 
         return result
+
+    def find_track(self, track_name):
+        result = self.spotify.search(track_name, type="track", limit=5)["tracks"][
+            "items"
+        ]
+
+        return result

@@ -1,126 +1,163 @@
-league_title,round_number,submitter_name,song_name,song_artist,song_album,rank,submitter_comments,voted
-BOS BOPS,1,Sean Wong,Lil Boo Thang,Paul Russell,Lil Boo Thang,1,,TRUE
-BOS BOPS,1,Donna Koo,Seven (feat. Latto),Jung Kook,Seven (feat. Latto),2,,TRUE
-BOS BOPS,1,Chris Podracky,vampire,Olivia Rodrigo,GUTS,3,"Playing a DND campaign where the main villain is a vampire. We’ve got a bard in the party, so this song comes up a lot.",TRUE
-BOS BOPS,1,Richard Hill,Paint The Town Red,Doja Cat,Paint The Town Red,4,,TRUE
-BOS BOPS,1,Tammy Liaw,24K Magic,Bruno Mars,24K Magic,5,,TRUE
-BOS BOPS,1,Jenni Podracky,WHERE SHE GOES,Bad Bunny,WHERE SHE GOES,6,just wait until the beat drops. FIRE.,TRUE
-BOS BOPS,1,Jen Tsang,Back To Me,The Rose,Back To Me / Alive,7,Gives me the alt rock era in 2000s-2010s vibes,TRUE
-BOS BOPS,1,Will Mau,ETA,NewJeans,NewJeans 2nd EP 'Get Up',8,,TRUE
-BOS BOPS,1,Alex Chao,Hard Times,Paramore,After Laughter,9,,TRUE
-BOS BOPS,1,Jackie Wu,See You Again,Miley Cyrus,Meet Miley Cyrus,10,Enjoy :),TRUE
-BOS BOPS,1,June Wang,Fell In Love,Marshmello,Fell In Love,11,,TRUE
-BOS BOPS,1,Michelle Wang,Shake It Off,Taylor Swift,1989,12,,FALSE
-BOS BOPS,2,June Wang,You'll Be In My Heart,Phil Collins,Tarzan (Original Motion Picture Soundtrack),1,,TRUE
-BOS BOPS,2,Donna Koo,Reflection,Lea Salonga,Mulan (Original Soundtrack),2,,TRUE
-BOS BOPS,2,Jackie Wu,I Won't Say (I'm In Love),Susan Egan,Hercules (Original Motion Picture Soundtrack),3,". . . I will redeem myself, my heart, it can’t rest til then! Oh whoa whoa I, I can’t wait to [win points] again!",TRUE
-BOS BOPS,2,Jen Tsang,Hawaiian Roller Coaster Ride,Mark Keali'i Ho'omalu,Lilo & Stitch,4,,TRUE
-BOS BOPS,2,Sean Wong,Hakuna Matata,Nathan Lane,The Lion King,4,It means no worriesss 🦁🐷 (+ meerkat),TRUE
-BOS BOPS,2,Will Mau,We Don't Talk About Bruno,Carolina Gaitán - La Gaita,Encanto (Original Motion Picture Soundtrack),6,,TRUE
-BOS BOPS,2,Michelle Wang,What Dreams Are Made Of,Hilary Duff,The Lizzie McGuire Movie (Original Motion Picture Soundtrack),7,,TRUE
-BOS BOPS,2,Alex Mui,I2I,Tevin Campbell,A Goofy Movie,8,Still trying to learn this dance,TRUE
-BOS BOPS,2,Tammy Liaw,Part of Your World,Jodi Benson,The Little Mermaid Special Edition,9,,TRUE
-BOS BOPS,2,Jenni Podracky,True To Your Heart,98º,Mulan (Original Soundtrack),10,Still a bop,TRUE
-BOS BOPS,2,Alex Chao,The Bare Necessities,Phil Harris,The Jungle Book,10,,TRUE
-BOS BOPS,2,Anna Mai,"Let It Go - From ""Frozen""/Soundtrack Version",Idina Menzel,Frozen (Original Motion Picture Soundtrack / Deluxe Edition),12,As if you could go anywhere without hearing this for a full year after it came out,TRUE
-BOS BOPS,2,Richard Hill,You're Welcome,Dwayne Johnson,Moana (Original Motion Picture Soundtrack/Deluxe Edition),13,What can I say except...,TRUE
-BOS BOPS,2,Chris Podracky,The Bells of Notre Dame,David Ogden Stiers,The Hunchback Of Notre Dame (Original Motion Picture Soundtrack),14,A perfect piece of exposition punctuated with Clopin hitting a sustained high D. The hardest opening number in any Disney movie.,TRUE
-BOS BOPS,3,June Wang,Stick Season,Noah Kahan,Stick Season,1,,TRUE
-BOS BOPS,3,Will Mau,La La Lost You - Acoustic Version,Niki,NIKI Acoustic Sessions: Head In The Clouds II,2,Gives off the vibe of a bittersweet end to warmer days and lost opportunity.,TRUE
-BOS BOPS,3,Jen Tsang,Sleeping In - Remastered,The Postal Service,Give Up (Deluxe 10th Anniversary Edition),3,,TRUE
-BOS BOPS,3,Tammy Liaw,Bloom - Bonus Track,The Paper Kites,Woodland,4,,TRUE
-BOS BOPS,3,Alex Mui,Circles,Post Malone,Hollywood's Bleeding,5,"Been revisiting Posty's music -- I wasn't a big fan when he was so overplayed, but his stuff is actually so good",TRUE
+league_title,round_number,submitter_name,song_name,song_artist,song_album,rank,submitter_comments,voted,genres,artist_popularity
+BOS BOPS,1,Sean Wong,Lil Boo Thang,Paul Russell,Lil Boo Thang,1,,TRUE,['indie r&b'],63
+BOS BOPS,1,Donna Koo,Seven (feat. Latto),Jung Kook,Seven (feat. Latto),2,,TRUE,['k-pop'],83
+BOS BOPS,1,Chris Podracky,vampire,Olivia Rodrigo,GUTS,3,"Playing a DND campaign where the main villain is a vampire. We’ve got a bard in the party, so this song comes up a lot.",TRUE,['pop'],86
+BOS BOPS,1,Richard Hill,Paint The Town Red,Doja Cat,Paint The Town Red,4,,TRUE,"['dance pop', 'pop']",84
+BOS BOPS,1,Tammy Liaw,24K Magic,Bruno Mars,24K Magic,5,,TRUE,"['dance pop', 'pop']",86
+BOS BOPS,1,Jenni Podracky,WHERE SHE GOES,Bad Bunny,WHERE SHE GOES,6,just wait until the beat drops. FIRE.,TRUE,"['reggaeton', 'trap latino', 'urbano latino']",92
+BOS BOPS,1,Jen Tsang,Back To Me,The Rose,Back To Me / Alive,7,Gives me the alt rock era in 2000s-2010s vibes,TRUE,"['k-pop', 'k-pop boy group']",61
+BOS BOPS,1,Will Mau,ETA,NewJeans,NewJeans 2nd EP 'Get Up',8,,TRUE,"['k-pop', 'k-pop girl group']",77
+BOS BOPS,1,Alex Chao,Hard Times,Paramore,After Laughter,9,,TRUE,"['candy pop', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']",74
+BOS BOPS,1,Jackie Wu,See You Again,Miley Cyrus,Meet Miley Cyrus,10,Enjoy :),TRUE,['pop'],81
+BOS BOPS,1,June Wang,Fell In Love,Marshmello,Fell In Love,11,,TRUE,"['brostep', 'edm', 'pop', 'progressive electro house']",80
+BOS BOPS,1,Michelle Wang,Shake It Off,Taylor Swift,1989,12,,FALSE,['pop'],100
+BOS BOPS,2,June Wang,You'll Be In My Heart,Phil Collins,Tarzan (Original Motion Picture Soundtrack),1,,TRUE,"['rock drums', 'soft rock']",73
+BOS BOPS,2,Donna Koo,Reflection,Lea Salonga,Mulan (Original Soundtrack),2,,TRUE,"['movie tunes', 'tagalog worship']",56
+BOS BOPS,2,Jackie Wu,I Won't Say (I'm In Love),Susan Egan,Hercules (Original Motion Picture Soundtrack),3,". . . I will redeem myself, my heart, it can’t rest til then! Oh whoa whoa I, I can’t wait to [win points] again!",TRUE,['movie tunes'],50
+BOS BOPS,2,Jen Tsang,Hawaiian Roller Coaster Ride,Mark Keali'i Ho'omalu,Lilo & Stitch,4,,TRUE,['movie tunes'],52
+BOS BOPS,2,Sean Wong,Hakuna Matata,Nathan Lane,The Lion King,4,It means no worriesss 🦁🐷 (+ meerkat),TRUE,['movie tunes'],52
+BOS BOPS,2,Will Mau,We Don't Talk About Bruno,Carolina Gaitán - La Gaita,Encanto (Original Motion Picture Soundtrack),6,,TRUE,['movie tunes'],53
+BOS BOPS,2,Michelle Wang,What Dreams Are Made Of,Hilary Duff,The Lizzie McGuire Movie (Original Motion Picture Soundtrack),7,,TRUE,"['dance pop', 'pop', 'post-teen pop']",52
+BOS BOPS,2,Alex Mui,I2I,Tevin Campbell,A Goofy Movie,8,Still trying to learn this dance,TRUE,"['contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']",54
+BOS BOPS,2,Tammy Liaw,Part of Your World,Jodi Benson,The Little Mermaid Special Edition,9,,TRUE,['movie tunes'],50
+BOS BOPS,2,Jenni Podracky,True To Your Heart,98º,Mulan (Original Soundtrack),10,Still a bop,TRUE,['boy band'],50
+BOS BOPS,2,Alex Chao,The Bare Necessities,Phil Harris,The Jungle Book,10,,TRUE,['movie tunes'],48
+BOS BOPS,2,Anna Mai,"Let It Go - From ""Frozen""/Soundtrack Version",Idina Menzel,Frozen (Original Motion Picture Soundtrack / Deluxe Edition),12,As if you could go anywhere without hearing this for a full year after it came out,TRUE,"['hollywood', 'movie tunes', 'show tunes']",65
+BOS BOPS,2,Richard Hill,You're Welcome,Dwayne Johnson,Moana (Original Motion Picture Soundtrack/Deluxe Edition),13,What can I say except...,TRUE,[],56
+BOS BOPS,2,Chris Podracky,The Bells of Notre Dame,David Ogden Stiers,The Hunchback Of Notre Dame (Original Motion Picture Soundtrack),14,A perfect piece of exposition punctuated with Clopin hitting a sustained high D. The hardest opening number in any Disney movie.,TRUE,['movie tunes'],43
+BOS BOPS,3,June Wang,Stick Season,Noah Kahan,Stick Season,1,,TRUE,['pov: indie'],83
+BOS BOPS,3,Will Mau,La La Lost You - Acoustic Version,Niki,NIKI Acoustic Sessions: Head In The Clouds II,2,Gives off the vibe of a bittersweet end to warmer days and lost opportunity.,TRUE,['indonesian r&b'],71
+BOS BOPS,3,Jen Tsang,Sleeping In - Remastered,The Postal Service,Give Up (Deluxe 10th Anniversary Edition),3,,TRUE,"['chamber pop', 'indie rock', 'indietronica', 'seattle indie']",52
+BOS BOPS,3,Tammy Liaw,Bloom - Bonus Track,The Paper Kites,Woodland,4,,TRUE,"['australian indie folk', 'indie anthem-folk', 'indie folk', 'stomp and flutter', 'stomp and holler']",66
+BOS BOPS,3,Alex Mui,Circles,Post Malone,Hollywood's Bleeding,5,"Been revisiting Posty's music -- I wasn't a big fan when he was so overplayed, but his stuff is actually so good",TRUE,"['dfw rap', 'melodic rap', 'pop', 'rap']",88
 BOS BOPS,3,Richard Hill,Sweater Weather,The Neighbourhood,I Love You.,6,"Cause it's too cold for you here
 And now, so let me hold
-Both your hands in the holes of my sweater",TRUE
-BOS BOPS,3,Anna Mai,Thanksgiving Theme,Vince Guaraldi Trio,Charlie Brown Holiday Hits,6,,TRUE
-BOS BOPS,3,Sean Wong,Inside Friend (feat. John Mayer),Leon Bridges,Inside Friend (feat. John Mayer),8,Ushering in those cozy weekends indoors,TRUE
-BOS BOPS,3,Jackie Wu,Falling in Love at a Coffee Shop,Landon Pigg,The Boy Who Never,8,"Gives me cozy yet melancholy fall vibes. Sweater paws, in an armchair, staring out a window at leaves falling.",TRUE
+Both your hands in the holes of my sweater",TRUE,"['modern alternative rock', 'modern rock', 'pop']",81
+BOS BOPS,3,Anna Mai,Thanksgiving Theme,Vince Guaraldi Trio,Charlie Brown Holiday Hits,6,,TRUE,['jazz trio'],46
+BOS BOPS,3,Sean Wong,Inside Friend (feat. John Mayer),Leon Bridges,Inside Friend (feat. John Mayer),8,Ushering in those cozy weekends indoors,TRUE,"['modern blues', 'neo soul', 'soul']",69
+BOS BOPS,3,Jackie Wu,Falling in Love at a Coffee Shop,Landon Pigg,The Boy Who Never,8,"Gives me cozy yet melancholy fall vibes. Sweater paws, in an armchair, staring out a window at leaves falling.",TRUE,['acoustic pop'],35
 BOS BOPS,3,Donna Koo,楓,Jay Chou,11月的蕭邦,10,"楓 = Maple Leaf
 
-Just a beautiful song about how his memories of his lost love are like scattered maple leaves on the ground 🥺",TRUE
-BOS BOPS,3,Alex Chao,Lavender Haze,Taylor Swift,Midnights,11,,TRUE
-BOS BOPS,3,Michelle Wang,Used To Be Young,Miley Cyrus,Endless Summer Vacation,12,,TRUE
-BOS BOPS,3,Chris Podracky,Scarborough Fair / Canticle,Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",13,,TRUE
-BOS BOPS,4,Richard Hill,Unholy Matrimony,Giveon,Give Or Take,1,https://genius.com/Giveon-unholy-matrimony-lyrics 🖐🎤 ⬇️,TRUE
-BOS BOPS,4,Tammy Liaw,It Wasn't Me,Shaggy,Hot Shot,2,,TRUE
-BOS BOPS,4,Sean Wong,This Life,Vampire Weekend,Father of the Bride,2,Imagine bopping along to this song and then finally hearing the lyrics,TRUE
-BOS BOPS,4,Jackie Wu,Bust Your Windows,Jazmine Sullivan,Fearless,4,Carrie Underwood could never.,TRUE
-BOS BOPS,4,Jen Tsang,You Give Love A Bad Name,Bon Jovi,Slippery When Wet,5,,TRUE
-BOS BOPS,4,Will Mau,BOOM,Tiësto,BOOM,6,"🎵 She's popping it, it's obvious. All in her esophagus 🎵",TRUE
-BOS BOPS,4,Alex Mui,Before He Cheats,Carrie Underwood,Some Hearts,7,"Well, unless it's played as a warning... and I'll be singing along 🏏💥",TRUE
-BOS BOPS,4,Alex Chao,Smack That,Akon,Konvicted,8,,TRUE
-BOS BOPS,4,June Wang,Hey Ya!,Outkast,Speakerboxxx/The Love Below,9,Listen to the lyrics carefully!,TRUE
-BOS BOPS,4,Michelle Wang,vampire,Olivia Rodrigo,vampire,10,,TRUE
-BOS BOPS,4,Donna Koo,Let Her Go,Passenger,All The Little Lights,11,,TRUE
-BOS BOPS,4,Chris Podracky,Closer,Nine Inch Nails,The Downward Spiral,12,,TRUE
-BOS BOPS,4,Anna Mai,Mr. Brightside,The Killers,Direct Hits,13,"I already know this is gonna be controversial, I promise I dont hate weddings. But I don't get it. It's literally about catching someone cheating??",TRUE
-BOS BOPS,5,Anna Mai,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),1,,TRUE
-BOS BOPS,5,Jen Tsang,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,The Heist,2,,TRUE
-BOS BOPS,5,June Wang,Survivor,Destiny's Child,Survivor,3,,TRUE
-BOS BOPS,5,Jackie Wu,BANG BANG BANG,BIGBANG,MADE,3,"Idk what to say if you’re totally still for this song. Like, even the cars are bouncing in the MV.",TRUE
-BOS BOPS,5,Alex Chao,Lose Yourself,Eminem,Curtain Call: The Hits (Deluxe Edition),5,,TRUE
-BOS BOPS,5,Chris Podracky,"You're Gonna Go Far, Kid",The Offspring,"Rise And Fall, Rage And Grace",6,https://youtu.be/HCidSV7MfpQ?si=rOckIKOt-SbWrcZ6,TRUE
-BOS BOPS,5,Tammy Liaw,Level Up - Remix,Ciara,Level Up (Remix),7,,TRUE
-BOS BOPS,5,Donna Koo,Stronger (What Doesn't Kill You),Kelly Clarkson,Stronger (Deluxe Version),8,,TRUE
-BOS BOPS,5,Will Mau,Fire Again,VALORANT,Fire Again,8,🔫,TRUE
-BOS BOPS,5,Michelle Wang,Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy),T-Pain,Happy Hour: The Greatest Hits,10,,TRUE
-BOS BOPS,5,Sean Wong,I Hate Cardio,Ellee Duke,I Hate Cardio,11,,TRUE
+Just a beautiful song about how his memories of his lost love are like scattered maple leaves on the ground 🥺",TRUE,"['c-pop', 'mandopop', 'taiwan pop', 'zhongguo feng']",70
+BOS BOPS,3,Alex Chao,Lavender Haze,Taylor Swift,Midnights,11,,TRUE,['pop'],100
+BOS BOPS,3,Michelle Wang,Used To Be Young,Miley Cyrus,Endless Summer Vacation,12,,TRUE,['pop'],81
+BOS BOPS,3,Chris Podracky,Scarborough Fair / Canticle,Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",13,,TRUE,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock', 'soft rock']",69
+BOS BOPS,4,Richard Hill,Unholy Matrimony,Giveon,Give Or Take,1,https://genius.com/Giveon-unholy-matrimony-lyrics 🖐🎤 ⬇️,TRUE,['r&b'],73
+BOS BOPS,4,Tammy Liaw,It Wasn't Me,Shaggy,Hot Shot,2,,TRUE,"['dance pop', 'pop rap', 'reggae fusion']",69
+BOS BOPS,4,Sean Wong,This Life,Vampire Weekend,Father of the Bride,2,Imagine bopping along to this song and then finally hearing the lyrics,TRUE,"['baroque pop', 'chamber pop', 'garage rock', 'indie rock', 'indietronica', 'modern rock']",66
+BOS BOPS,4,Jackie Wu,Bust Your Windows,Jazmine Sullivan,Fearless,4,Carrie Underwood could never.,TRUE,"['hip pop', 'neo soul', 'r&b', 'urban contemporary']",58
+BOS BOPS,4,Jen Tsang,You Give Love A Bad Name,Bon Jovi,Slippery When Wet,5,,TRUE,"['glam metal', 'rock']",75
+BOS BOPS,4,Will Mau,BOOM,Tiësto,BOOM,6,"🎵 She's popping it, it's obvious. All in her esophagus 🎵",TRUE,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",82
+BOS BOPS,4,Alex Mui,Before He Cheats,Carrie Underwood,Some Hearts,7,"Well, unless it's played as a warning... and I'll be singing along 🏏💥",TRUE,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",67
+BOS BOPS,4,Alex Chao,Smack That,Akon,Konvicted,8,,TRUE,['dance pop'],78
+BOS BOPS,4,June Wang,Hey Ya!,Outkast,Speakerboxxx/The Love Below,9,Listen to the lyrics carefully!,TRUE,"['atl hip hop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'rap', 'southern hip hop']",72
+BOS BOPS,4,Michelle Wang,vampire,Olivia Rodrigo,vampire,10,,TRUE,['pop'],86
+BOS BOPS,4,Donna Koo,Let Her Go,Passenger,All The Little Lights,11,,TRUE,"['folk-pop', 'neo mellow']",68
+BOS BOPS,4,Chris Podracky,Closer,Nine Inch Nails,The Downward Spiral,12,,TRUE,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",63
+BOS BOPS,4,Anna Mai,Mr. Brightside,The Killers,Direct Hits,13,"I already know this is gonna be controversial, I promise I dont hate weddings. But I don't get it. It's literally about catching someone cheating??",TRUE,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",74
+BOS BOPS,5,Anna Mai,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),1,,TRUE,['lgbtq+ hip hop'],73
+BOS BOPS,5,Jen Tsang,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,The Heist,2,,TRUE,"['pop rap', 'seattle hip hop']",70
+BOS BOPS,5,June Wang,Survivor,Destiny's Child,Survivor,3,,TRUE,"['dance pop', 'girl group', 'pop', 'r&b', 'urban contemporary']",68
+BOS BOPS,5,Jackie Wu,BANG BANG BANG,BIGBANG,MADE,3,"Idk what to say if you’re totally still for this song. Like, even the cars are bouncing in the MV.",TRUE,"['k-pop', 'k-pop boy group']",62
+BOS BOPS,5,Alex Chao,Lose Yourself,Eminem,Curtain Call: The Hits (Deluxe Edition),5,,TRUE,"['detroit hip hop', 'hip hop', 'rap']",87
+BOS BOPS,5,Chris Podracky,"You're Gonna Go Far, Kid",The Offspring,"Rise And Fall, Rage And Grace",6,https://youtu.be/HCidSV7MfpQ?si=rOckIKOt-SbWrcZ6,TRUE,"['alternative metal', 'permanent wave', 'post-grunge', 'punk', 'rock', 'skate punk', 'socal pop punk']",74
+BOS BOPS,5,Tammy Liaw,Level Up - Remix,Ciara,Level Up (Remix),7,,TRUE,"['dance pop', 'hip pop', 'pop', 'r&b', 'urban contemporary']",67
+BOS BOPS,5,Donna Koo,Stronger (What Doesn't Kill You),Kelly Clarkson,Stronger (Deluxe Version),8,,TRUE,"['dance pop', 'pop', 'talent show']",70
+BOS BOPS,5,Will Mau,Fire Again,VALORANT,Fire Again,8,🔫,TRUE,['video game music'],61
+BOS BOPS,5,Michelle Wang,Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy),T-Pain,Happy Hour: The Greatest Hits,10,,TRUE,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",75
+BOS BOPS,5,Sean Wong,I Hate Cardio,Ellee Duke,I Hate Cardio,11,,TRUE,[],26
 BOS BOPS,5,Richard Hill,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Riton,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],11,"https://youtu.be/1AnG04qnLqI?si=4pQN9XKiixrAljqE
 Mufasa, you know we're finally here, right?
 Where are we?
 It's Friday then
-There's Saturday, Sunday, what?",TRUE
-BOS BOPS,5,Alex Mui,HONEY (ARE U COMING?),Måneskin,HONEY (ARE U COMING?),13,pure energy to get in the zone🤘🏼,TRUE
-BOS BOPS,6,Anna Mai,Happier Than Ever,Kelly Clarkson,Happier Than Ever,1,,TRUE
-BOS BOPS,6,June Wang,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",Amy Winehouse,Back To Black (Deluxe Edition),2,,TRUE
-BOS BOPS,6,Sean Wong,Pony - Recorded at Spotify Studios NYC,Leon Bridges,Spotify Singles,2,My ideal cover is recognizable but offers something unique from the original song. Giddy-up 🐴,TRUE
-BOS BOPS,6,Jen Tsang,"Sometimes - From ""Fire Island""",MUNA,"Sometimes (From ""Fire Island"")",4,,TRUE
-BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Michael Learns To Rock,Michael Learns To Rock,5,https://en.m.wikipedia.org/wiki/Take_Me_to_Your_Heart_(Michael_Learns_to_Rock_song),TRUE
-BOS BOPS,6,Alex Mui,Moon River,Frank Ocean,Moon River,5,https://media.tenor.com/NdSG8lL6R6wAAAAd/rain-chandler.gif,TRUE
-BOS BOPS,6,Chris Podracky,I Will Always Love You,Whitney Houston,The Bodyguard - Original Soundtrack Album,5,,TRUE
-BOS BOPS,6,Richard Hill,Bye Bye Bye,Jonathan Young,Young's Old Covers (2016-2018),8,,TRUE
-BOS BOPS,6,Alex Chao,Just A Dream,Kurt Hugo Schneider,Just A Dream,9,🤷‍♂️,TRUE
-BOS BOPS,6,Tammy Liaw,Watermelon Sugar,James Pyle,Watermelon Sugar,10,,TRUE
-BOS BOPS,6,Donna Koo,For Good,Glee Cast,"Glee: The Music, The Complete Season Two",11,,TRUE
+There's Saturday, Sunday, what?",TRUE,"['house', 'pop dance', 'uk dance']",64
+BOS BOPS,5,Alex Mui,HONEY (ARE U COMING?),Måneskin,HONEY (ARE U COMING?),13,pure energy to get in the zone🤘🏼,TRUE,"['indie rock italiano', 'italian pop']",77
+BOS BOPS,6,Anna Mai,Happier Than Ever,Kelly Clarkson,Happier Than Ever,1,,TRUE,"['dance pop', 'pop', 'talent show']",70
+BOS BOPS,6,June Wang,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",Amy Winehouse,Back To Black (Deluxe Edition),2,,TRUE,"['british soul', 'neo soul']",76
+BOS BOPS,6,Sean Wong,Pony - Recorded at Spotify Studios NYC,Leon Bridges,Spotify Singles,2,My ideal cover is recognizable but offers something unique from the original song. Giddy-up 🐴,TRUE,"['modern blues', 'neo soul', 'soul']",69
+BOS BOPS,6,Jen Tsang,"Sometimes - From ""Fire Island""",MUNA,"Sometimes (From ""Fire Island"")",4,,TRUE,"['indie pop', 'indie poptimism', 'la pop', 'metropopolis']",55
+BOS BOPS,6,Jackie Wu,Take Me to Your Heart,Michael Learns To Rock,Michael Learns To Rock,5,https://en.m.wikipedia.org/wiki/Take_Me_to_Your_Heart_(Michael_Learns_to_Rock_song),TRUE,"['boy band', 'danish pop rock']",60
+BOS BOPS,6,Alex Mui,Moon River,Frank Ocean,Moon River,5,https://media.tenor.com/NdSG8lL6R6wAAAAd/rain-chandler.gif,TRUE,"['lgbtq+ hip hop', 'neo soul']",83
+BOS BOPS,6,Chris Podracky,I Will Always Love You,Whitney Houston,The Bodyguard - Original Soundtrack Album,5,,TRUE,"['dance pop', 'pop']",73
+BOS BOPS,6,Richard Hill,Bye Bye Bye,Jonathan Young,Young's Old Covers (2016-2018),8,,TRUE,"['metal cover', 'otacore']",58
+BOS BOPS,6,Alex Chao,Just A Dream,Kurt Hugo Schneider,Just A Dream,9,🤷‍♂️,TRUE,['viral pop'],52
+BOS BOPS,6,Tammy Liaw,Watermelon Sugar,James Pyle,Watermelon Sugar,10,,TRUE,[],5
+BOS BOPS,6,Donna Koo,For Good,Glee Cast,"Glee: The Music, The Complete Season Two",11,,TRUE,"['glee club', 'post-teen pop']",65
 BOS BOPS,6,Will Mau,Hurt,Johnny Cash,American IV: The Man Comes Around,12,"Logan: Laura.
 Laura: [crying] Daddy.
 Logan: [smiles] So... this is what it feels like.
 
-Original was from Nine Inch Nails",TRUE
-BOS BOPS,6,Michelle Wang,Fast Car,Luke Combs,Gettin' Old,13,,FALSE
-BOS BOPS,7,Alex Mui,Underneath the Tree,Kelly Clarkson,Wrapped In Red,1,"Unbridled Christmas cheer, a modern holiday classic in the making",TRUE
-BOS BOPS,7,Jen Tsang,My Only Wish (This Year),Britney Spears,My Only Wish (This Year),2,All time fav,TRUE
-BOS BOPS,7,Richard Hill,Winter Wonderland - Spotify Singles Holiday,Laufey,Spotify Singles Holiday,3,"“As a musician, my goal is to bring jazz and classical music to my generation,” declares GRAMMY-nominated composer, singer, producer, and multi-instrumentalist Laufey. In 2022, the Icelandic-Chinese artist’s trailblazing approach paid off, with a performance on Jimmy Kimmel LIVE! in support of her debut album Everything I Know About Love, sold out tours of North America, Asia, and Australia, and she was the most streamed jazz artist on Spotify.",TRUE
-BOS BOPS,7,Sean Wong,Have Yourself A Merry Little Christmas,Norah Jones,Christmas With You,4,🎄 love both of their voices,TRUE
-BOS BOPS,7,Jackie Wu,Last Christmas,Wham!,LAST CHRISTMAS,5,,TRUE
-BOS BOPS,7,June Wang,What Christmas Means to Me (feat. Stevie Wonder),John Legend,A Legendary Christmas,6,I expect Sean to give me all the upvotes because I know he loves John legend. Otherwise I would have submitted the original by Stevie Wonder,TRUE
-BOS BOPS,7,Anna Mai,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,A Winter Romance,6,,TRUE
-BOS BOPS,7,Donna Koo,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,8,Makes me think of Christmas every time 🥰,TRUE
-BOS BOPS,7,Will Mau,"Mary, Did You Know?",Pentatonix,That's Christmas To Me (Deluxe Edition),9,Idk I don't holiday music,TRUE
-BOS BOPS,7,Tammy Liaw,Mistletoe,Justin Bieber,Under The Mistletoe (Deluxe Edition),10,,TRUE
-BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Gayla Peevey,I Want a Hippopotamus for Christmas (Hippo the Hero),11,,TRUE
-BOS BOPS,7,Michelle Wang,Like It's Christmas,Jonas Brothers,Like It's Christmas,12,,TRUE
-BOS BOPS,7,Chris Podracky,Last Christmas,Taylor Swift,The Taylor Swift Holiday Collection,13,,TRUE
-BOS BOPS,8,Alex Chao,the way love will go,Bryce & Joseph,the way love will go,1,Idk what to use for this category but this is my friend. Be nice 🥺,TRUE
-BOS BOPS,8,Will Mau,Infinite Styles,Junoflo,Deja Vu,2,Imma call you Kinko cuz all you do is copy 🎵,TRUE
+Original was from Nine Inch Nails",TRUE,"['arkansas country', 'outlaw country', 'rock']",72
+BOS BOPS,6,Michelle Wang,Fast Car,Luke Combs,Gettin' Old,13,,FALSE,"['contemporary country', 'country']",82
+BOS BOPS,7,Alex Mui,Underneath the Tree,Kelly Clarkson,Wrapped In Red,1,"Unbridled Christmas cheer, a modern holiday classic in the making",TRUE,"['dance pop', 'pop', 'talent show']",70
+BOS BOPS,7,Jen Tsang,My Only Wish (This Year),Britney Spears,My Only Wish (This Year),2,All time fav,TRUE,"['dance pop', 'pop']",78
+BOS BOPS,7,Richard Hill,Winter Wonderland - Spotify Singles Holiday,Laufey,Spotify Singles Holiday,3,"“As a musician, my goal is to bring jazz and classical music to my generation,” declares GRAMMY-nominated composer, singer, producer, and multi-instrumentalist Laufey. In 2022, the Icelandic-Chinese artist’s trailblazing approach paid off, with a performance on Jimmy Kimmel LIVE! in support of her debut album Everything I Know About Love, sold out tours of North America, Asia, and Australia, and she was the most streamed jazz artist on Spotify.",TRUE,['gen z singer-songwriter'],78
+BOS BOPS,7,Sean Wong,Have Yourself A Merry Little Christmas,Norah Jones,Christmas With You,4,🎄 love both of their voices,TRUE,"['contemporary vocal jazz', 'jazz pop', 'neo mellow', 'vocal jazz']",70
+BOS BOPS,7,Jackie Wu,Last Christmas,Wham!,LAST CHRISTMAS,5,,TRUE,"['new romantic', 'new wave pop', 'soft rock']",64
+BOS BOPS,7,June Wang,What Christmas Means to Me (feat. Stevie Wonder),John Legend,A Legendary Christmas,6,I expect Sean to give me all the upvotes because I know he loves John legend. Otherwise I would have submitted the original by Stevie Wonder,TRUE,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",72
+BOS BOPS,7,Anna Mai,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,A Winter Romance,6,,TRUE,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",65
+BOS BOPS,7,Donna Koo,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,8,Makes me think of Christmas every time 🥰,TRUE,"['dance pop', 'pop', 'urban contemporary']",74
+BOS BOPS,7,Will Mau,"Mary, Did You Know?",Pentatonix,That's Christmas To Me (Deluxe Edition),9,Idk I don't holiday music,TRUE,"['a cappella', 'viral pop']",59
+BOS BOPS,7,Tammy Liaw,Mistletoe,Justin Bieber,Under The Mistletoe (Deluxe Edition),10,,TRUE,"['canadian pop', 'pop']",86
+BOS BOPS,7,Alex Chao,I Want a Hippopotamus for Christmas (Hippo the Hero),Gayla Peevey,I Want a Hippopotamus for Christmas (Hippo the Hero),11,,TRUE,['novelty'],27
+BOS BOPS,7,Michelle Wang,Like It's Christmas,Jonas Brothers,Like It's Christmas,12,,TRUE,"['boy band', 'pop']",72
+BOS BOPS,7,Chris Podracky,Last Christmas,Taylor Swift,The Taylor Swift Holiday Collection,13,,TRUE,['pop'],100
+BOS BOPS,8,Alex Chao,the way love will go,Bryce & Joseph,the way love will go,1,Idk what to use for this category but this is my friend. Be nice 🥺,TRUE,[],0
+BOS BOPS,8,Will Mau,Infinite Styles,Junoflo,Deja Vu,2,Imma call you Kinko cuz all you do is copy 🎵,TRUE,['k-rap'],39
 BOS BOPS,8,Sean Wong,Trouble,Michael J Woodard,Trouble,3,"“You ain’t nothing but some trouble… maybe that’s what I need” 😈
 
-170,000 plays but a total bop",TRUE
+170,000 plays but a total bop",TRUE,[],27
 BOS BOPS,8,Alex Mui,Into The Walls,Griff,vert1go vol. 1,4,"MAKE GRIFF HAPPEN 2024
 
-Griff's a rising artist in the UK but is relatively unknown in the US. This is my favorite off her latest EP",TRUE
-BOS BOPS,8,June Wang,Come True,Brasstracks,Bells On,5,It’s like a bonus song if you just focus on the music of the percussion instruments. Brasstracks is most famous for winning 2 Grammys for their work with Chance the Rapper but makes great music too.,TRUE
+Griff's a rising artist in the UK but is relatively unknown in the US. This is my favorite off her latest EP",TRUE,"['alt z', 'uk pop']",59
+BOS BOPS,8,June Wang,Come True,Brasstracks,Bells On,5,It’s like a bonus song if you just focus on the music of the percussion instruments. Brasstracks is most famous for winning 2 Grammys for their work with Chance the Rapper but makes great music too.,TRUE,['nyc pop'],44
 BOS BOPS,8,Richard Hill,Metamorfosis,Mon Laferte,Autopoiética,5,"
 ~400k listens but came out last month 😃
 
-she sings about her desire for a metamorphosis within herself and their connection with their loved one",TRUE
-BOS BOPS,8,Chris Podracky,Our Mixtape,The Call Out,Keep This Quiet,7,Courtesy of my friend’s older sister’s high school boyfriend,TRUE
-BOS BOPS,8,Jackie Wu,성냥 한 개비,Jessi,성냥 한 개비,8,This is a competition.,TRUE
-BOS BOPS,8,Tammy Liaw,These Are The Nights,Making April,These Are The Nights,9,,TRUE
-BOS BOPS,8,Michelle Wang,Leave You Wantin' More,ginna,Leave You Wantin' More,10,,FALSE
+she sings about her desire for a metamorphosis within herself and their connection with their loved one",TRUE,['latin alternative'],71
+BOS BOPS,8,Chris Podracky,Our Mixtape,The Call Out,Keep This Quiet,7,Courtesy of my friend’s older sister’s high school boyfriend,TRUE,[],0
+BOS BOPS,8,Jackie Wu,성냥 한 개비,Jessi,성냥 한 개비,8,This is a competition.,TRUE,"['modern country pop', 'singer-songwriter pop']",70
+BOS BOPS,8,Tammy Liaw,These Are The Nights,Making April,These Are The Nights,9,,TRUE,['piano rock'],14
+BOS BOPS,8,Michelle Wang,Leave You Wantin' More,ginna,Leave You Wantin' More,10,,FALSE,"['atl hip hop', 'melodic rap', 'rap', 'trap']",83
 BOS BOPS,8,Donna Koo,美丽的神话,金喜善,美丽的神话,11,"I LOVE this song and have listened to it on repeat for hours and hours. Firstly Jackie Chan can sing 😍 but also there aren’t a lot of Chinese-Korean duets and there should be! I’m also a sucker for historical dramas & starcrossed lover storylines so 😭 it’s from a movie called The Myth if you’re curious 🫶🏼 
 
-This wasn’t available on Spotify for covers but Jason Chen & Arden Cho have a beauuuuutiful cover on YouTube that I might love more than the OG 😭",FALSE
-BOS BOPS,8,Jen Tsang,Lesson Zero,Epik High,Epik High Is Here 上 (Part 1),11,Unclear where this stacks for views but seems underrated among the broader music scene 🤷,FALSE
-BOS BOPS,8,Anna Mai,Magic Shop,BTS,Love Yourself 結 'Answer',13,Maybe pandering but they have some amazing B sides that deserve so much love,FALSE
+This wasn’t available on Spotify for covers but Jason Chen & Arden Cho have a beauuuuutiful cover on YouTube that I might love more than the OG 😭",FALSE,[],30
+BOS BOPS,8,Jen Tsang,Lesson Zero,Epik High,Epik High Is Here 上 (Part 1),11,Unclear where this stacks for views but seems underrated among the broader music scene 🤷,FALSE,"['k-pop', 'k-rap', 'korean old school hip hop']",51
+BOS BOPS,8,Anna Mai,Magic Shop,BTS,Love Yourself 結 'Answer',13,Maybe pandering but they have some amazing B sides that deserve so much love,FALSE,"['k-pop', 'k-pop boy group', 'pop']",84
+BOS BOPS,9,Jackie Wu,月亮代表我的心,Teresa Teng,鄧麗君金曲選05,1,"She is Queen of Asian pop, having bridged cultural and political worlds. Over 1,500 songs in seven or so languages. This is one of her most popular songs ever. Even David Archuleta has a cover?",TRUE,"['c-pop', 'classic mandopop', 'kayokyoku']",52
+BOS BOPS,9,Michelle Wang,Right Here Waiting,Richard Marx,Repeat Offender,2,this might still be the only English song my mom knows,TRUE,"['new wave pop', 'soft rock']",63
+BOS BOPS,9,Alex Mui,Nothing's Gonna Stop Us Now,Starship,No Protection,3,Nothing beat falling asleep to cheesy 80s power ballads in the car after dinner 🌃👨🏻‍🎤,TRUE,"['album rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'synthpop']",62
+BOS BOPS,9,Chris Podracky,Run-Around,Blues Traveler,Four,3,This was known as “the kitty cat song” in my house because of the album cover. My dad would put it on and my cousin and I would “Run Around” the pool table as fast as we could during the chorus,TRUE,"['jam band', 'pop rock', 'post-grunge']",51
+BOS BOPS,9,Donna Koo,沉默是金,Sam Hui,BTB - Sam & Friends,5,This is my mom’s favorite song and she sang it all the time growing up. It means silence is golden and is about karmic justice & how good things will come if you just put your head down and work hard through the bad times,TRUE,"['c-pop', 'classic cantopop', 'vintage cantonese pop']",45
+BOS BOPS,9,Sean Wong,"Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder,"Signed, Sealed And Delivered",5,My parents would put on 106.7 LITE FM during our car rides and point out songs that were popular around when they got to the U.S.,TRUE,"['motown', 'soul']",72
+BOS BOPS,9,Tammy Liaw,Dancing Queen,ABBA,Arrival,7,,TRUE,"['europop', 'swedish pop']",78
+BOS BOPS,9,Will Mau,"愛不疚 - (劇集 ""溏心風暴之家好月圓"" 片尾曲)",Raymond Lam,"愛不疚 (劇集 ""溏心風暴之家好月圓"" 片尾曲)",8,MOONLIGHT RESONANCE,TRUE,['cantopop'],44
+BOS BOPS,9,June Wang,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",Doris Day,Doris Day - Her Greatest Songs,9,My mom is very musically inclined and grew up listening to a lot of English songs in the 60s/70s. I would catch her singing this song to herself all the time. She would also sometimes answer my questions by saying “Que Sera Sera”. So I always think of my mom when I hear this song,TRUE,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",52
+BOS BOPS,9,Alex Chao,Kokomo,The Beach Boys,The Very Best Of The Beach Boys: Sounds Of Summer,9,,TRUE,"['baroque pop', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter', 'sunshine pop']",69
+BOS BOPS,9,Richard Hill,White Flag,Dido,Life For Rent,11,I think my parents had like two english cd's and I prefer Dido to Celine Dion 😂,TRUE,"['dance pop', 'europop', 'lilith', 'neo mellow', 'pop rock']",72
+BOS BOPS,9,Anna Mai,愛是永恆,Jacky Cheung,The Best Of Jacky Cheung,12,"Look, I have no idea what he's saying but he's still the most talented of the 4 Heavenly Kings and if that status alone doesn't make you upvote I've got nothing for you",FALSE,"['c-pop', 'classic mandopop']",58
+BOS BOPS,10,June Wang,Fallin',Alicia Keys,Songs In A Minor,1,I’m feeling really nostalgic for the songs we grew up with. And you can’t bet a classic Alicia keys belt along song,TRUE,"['neo soul', 'pop', 'r&b']",75
+BOS BOPS,10,Alex Mui,Supercut,Lorde,Melodrama,1,"""In my head, I do everything right... We were wild and fluorescent, come home to my heart"" are lyrics that still stick with me",TRUE,"['art pop', 'metropopolis', 'nz pop', 'pop']",72
+BOS BOPS,10,Alex Chao,Burn,USHER,Confessions (Expanded Edition),3,,TRUE,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",78
+BOS BOPS,10,Will Mau,アイドル,YOASOBI,アイドル,4,"Translates to ""Idol""",TRUE,"['j-pop', 'japanese teen pop']",73
+BOS BOPS,10,Sean Wong,Timing,Alisa Amador,Timing,5,"I like her voice, the ups and downs of the song, and how the style’s a bit different from other pop songs",TRUE,['boston folk'],20
+BOS BOPS,10,Tammy Liaw,Run,OneRepublic,Run,5,,TRUE,"['piano rock', 'pop']",81
+BOS BOPS,10,Richard Hill,One Word (Chris Cox Remix),Kelly Osbourne,Sleeping in the Nothing,7,technically correct is the best kind of correct 🤓,TRUE,[],30
+BOS BOPS,10,Chris Podracky,IDOL,BTS,Love Yourself 結 'Answer',8,,TRUE,"['k-pop', 'k-pop boy group', 'pop']",84
+BOS BOPS,10,Donna Koo,Gasolina,Daddy Yankee,Barrio Fino (Bonus Track Version),9,💃🏻💃🏻💃🏻,FALSE,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",83
+BOS BOPS,10,Jackie Wu,HIP,MAMAMOO,reality in BLACK,10,"Click me, click me",FALSE,"['k-pop', 'k-pop girl group']",58
+BOS BOPS,10,Jen Tsang,Numb / Encore,JAY-Z,Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course,11,2 great one word songs in 1,FALSE,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",80
+BOS BOPS,11,Alex Mui,Tokyo Love Hotel,Rina Sawayama,SAWAYAMA,1,"""don't fucking fetishize my culture"" but put more poetically
+
+https://genius.com/Rina-sawayama-tokyo-love-hotel-lyrics",TRUE,"['art pop', 'electropop', 'escape room', 'indie pop']",57
+BOS BOPS,11,Donna Koo,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Teriyaki Boyz,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),2,,TRUE,['japanese old school hip hop'],54
+BOS BOPS,11,Alex Chao,Location,Khalid,American Teen,3,,TRUE,"['pop', 'pop r&b']",81
+BOS BOPS,11,Tammy Liaw,Boston,Augustana,All The Stars and Boulevards,4,Couldn't help myself,TRUE,"['acoustic pop', 'neo mellow', 'piano rock', 'pop rock']",42
+BOS BOPS,11,Will Mau,HOME IS FAR AWAY,Epik High,WE'VE DONE SOMETHING WONDERFUL,4,,TRUE,"['k-pop', 'k-rap', 'korean old school hip hop']",51
+BOS BOPS,11,Sean Wong,Montana Sky,Jonas Brothers,The Album,6,Pretty nonsensical and silly but it brings me back to easygoing summer days and fun road trips,TRUE,"['boy band', 'pop']",72
+BOS BOPS,11,June Wang,Beverly Hills,Weezer,Make Believe,7,"If you didn’t rock out to this song as a kid and pretended to understand the lyrics, are you really a millennial???",TRUE,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",71
+BOS BOPS,11,Richard Hill,Blue Ridge Mountains,Fleet Foxes,Fleet Foxes,8,,TRUE,"['chamber pop', 'folk', 'indie folk', 'indie rock', 'indietronica', 'modern rock', 'seattle indie', 'singer-songwriter', 'stomp and holler']",60
+BOS BOPS,11,Jackie Wu,The Sixth Station,Joe Hisaishi,Spirited Away Soundtrack,9,We could all use some tea time with Zeniba.,TRUE,"['anime', 'anime score', 'japanese classical', 'japanese soundtrack', 'orchestral soundtrack']",67
+BOS BOPS,11,Chris Podracky,"4th of July, Asbury Park (Sandy)",Bruce Springsteen,"The Wild, the Innocent & The E Street Shuffle",10,A date and a place so you know exactly where you are in space time,TRUE,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",73
+BOS BOPS,11,Michelle Wang,Closer,The Chainsmokers,Closer,11,I know this doesn’t actually fit the rules but is it not an iconic location song,TRUE,['pop'],79
+BOS BOPS,11,Jen Tsang,Havana (feat. Young Thug),Camila Cabello,Camila,12,,FALSE,"['dance pop', 'pop']",78

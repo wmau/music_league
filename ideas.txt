@@ -5,11 +5,7 @@ Song level
 
 Player level
 - Dissenter: Person most often giving a negative vote to a highly placed song
-- Indie lover: Person giving the most votes to low-popularity artists
-- Pop lover: Person giving the most votes to high-popularity artists
 - Sophisticated: Person with the highest number of genres liked
 - Blabbermouth: Person with the most comments (or longest comments)
+- The Stoic One: Person with the fewest comments
 - Player relationships: Person who likes and dislikes your songs the most
-
-League level
-- Player performance over rounds
