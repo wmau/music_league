@@ -7,6 +7,14 @@ import time
 from selenium.common.exceptions import NoSuchElementException
 import re
 import pandas as pd
+import numpy as np
+
+if "SPOTIFY_USERNAME" in os.environ and "SPOTIFY_PASSWORD" in os.environ:
+    pass
+else:
+    raise ValueError(
+        "Set up your environment variables for SPOTIFY_USERNAME and SPOTIFY_PASSWORD first"
+    )
 
 
 class Scraper:
@@ -19,7 +27,9 @@ class Scraper:
         # First Music League login page
         login_url = "https://app.musicleague.com/login/"
         self.driver.get(login_url)
-        self.driver.find_element(By.LINK_TEXT, "Log in with Spotify").click()
+        self.wait.until(
+            EC.element_to_be_clickable((By.LINK_TEXT, "Log in with Spotify"))
+        ).click()
 
         # Spotify login page
         spotify_credentials = {
@@ -31,9 +41,11 @@ class Scraper:
                 EC.presence_of_element_located((By.ID, id))
             )
             credential_element.send_keys(credential)
+        time.sleep(0.2)
         self.driver.find_element(By.ID, "login-button").click()
 
         # Terms and agreements page
+        time.sleep(0.4)
         self.wait.until(
             EC.element_to_be_clickable(
                 (By.CSS_SELECTOR, 'button[data-testid="auth-accept"]')
@@ -66,6 +78,7 @@ class Scraper:
 
     def get_rounds(self, league_name):
         self.go_to_league(league_name)
+        time.sleep(2)
 
         round_cards = self.wait.until(
             EC.presence_of_all_elements_located(
@@ -83,7 +96,7 @@ class Scraper:
             ).text
             round_title = element.find_element(
                 By.XPATH, "./h5[@class='card-title']"
-            ).text
+            ).get_attribute("textContent") # .text strips trailing whitespace
 
             # Extract the round number using regex
             round_number = re.search(r"ROUND (\d+)", round_text)
@@ -100,7 +113,7 @@ class Scraper:
         # Get round link and navigate to it.
         round_card = self.wait.until(
             EC.presence_of_element_located(
-                (By.XPATH, f"//h5[text()='{round_name}']/ancestor::div[@class='card']")
+                (By.XPATH, f'//h5[text()="{round_name}"]/ancestor::div[@class="card"]')
             )
         )
         round_link = round_card.find_element(
@@ -120,12 +133,13 @@ class Scraper:
         return round_df
 
     def compile_league_data(self, league_title):
+        time.sleep(5)
         round_data = self.get_rounds(league_title)
 
         df_list = []
         for i, round_title in round_data.items():
             round_df = self.get_round_data(league_title, round_title)
-            time.sleep(1)
+            time.sleep(np.random.uniform(low=1, high=2, size=1)[0])
             round_df["round_number"] = i
             df_list.append(round_df)
 
@@ -163,8 +177,8 @@ class Scraper:
             )
         )
 
-        # Submitter comment
-        try:
+        # Submitter comment.
+        try:  # try/except necessary because comments are optional.
             submitter_comment = submission.find_element(
                 By.CSS_SELECTOR, ".bi.bi-quote.flex-shrink-0.me-1.fs-5 + span",
             ).text
@@ -183,14 +197,14 @@ class Scraper:
         for vote_block in vote_blocks:
             voter_name = vote_block.find_element(By.CSS_SELECTOR, "b.text-body").text
 
-            try:
+            try:  # try/except is necessary because votes are optional (e.g., only sending in a comment)
                 vote_value = int(
                     vote_block.find_element(By.CSS_SELECTOR, "h6.m-0").text
                 )
-            except NoSuchElementException:
+            except NoSuchElementException:  # Assign vote value to 0 if voter only sent in a comment
                 vote_value = 0
 
-            try:
+            try:  # try/except is necessary because comments are optional
                 voter_comment = vote_block.find_element(
                     By.CSS_SELECTOR, "span.text-break.ws-pre-wrap"
                 ).text
@@ -199,6 +213,7 @@ class Scraper:
 
             voters[voter_name] = (vote_value, voter_comment)
 
+        # Make df out of voter-level data
         df = (
             pd.DataFrame.from_dict(
                 voters, orient="index", columns=["vote_value", "voter_comment"]
@@ -206,6 +221,7 @@ class Scraper:
             .rename_axis("voter_name")
             .reset_index()
         )
+        # Add submission-level data
         for key, item in submission_data.items():
             df[key] = item
 
@@ -214,3 +230,10 @@ class Scraper:
     def run(self):
         self.login()
         self.leagues = self.gather_leagues()
+
+        league_dfs = [
+            self.compile_league_data(league) for league in self.leagues.keys()
+        ]
+        mega_df = pd.concat(league_dfs, axis=0)
+
+        return mega_df
