@@ -79,7 +79,6 @@ if __name__ == "__main__":
         "Austin": "Austin Diaz",
     }
 
-    os.chdir(r"C:\Users\Wackie\Documents\GitHub\music_league")
     df = pd.read_csv("./data/full_data.csv")
     df = clean_player_names(df, player_map)
 
