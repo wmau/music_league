@@ -137,7 +137,7 @@ class Scraper:
         for i, (round_name, round_description) in enumerate(round_data.items()):
             round_df = self.get_round_data(league_title, round_name)
             time.sleep(np.random.uniform(low=1, high=2, size=1)[0])
-            round_df["round_number"] = i
+            round_df["round_number"] = i + 1
             round_df["round_name"] = round_name
             round_df["round_description"] = round_description
 
