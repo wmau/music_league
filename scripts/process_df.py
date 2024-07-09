@@ -32,6 +32,7 @@ def build_round_submissions(df, save_path=None):
         "song_name",
         "song_artist",
         "song_album",
+        "spotify_link",
         "rank",
         "submitter_comment",
         "voted",
