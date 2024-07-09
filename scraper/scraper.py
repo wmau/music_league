@@ -186,6 +186,19 @@ class Scraper:
             submitter_comment = None
         submission_data["submitter_comment"] = submitter_comment
 
+        # Whether the submitter voted.
+        try:  # try/except necessary because the warning box only appears when the submitter did not vote
+            did_not_vote = submission.find_element(
+                By.XPATH,
+                ".//div[contains(@class, 'badge rounded-pill text-bg-danger mt-1')]",
+            ).text
+            assert (
+                did_not_vote == "Did not vote"
+            ), "The vote indicator box does not say 'Did not vote'"
+            submission_data["voted"] = False
+        except:
+            submission_data["voted"] = True
+
         # Voting data
         voters = {}
         card_footer_id = submission.find_element(
