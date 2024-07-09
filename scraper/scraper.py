@@ -90,20 +90,17 @@ class Scraper:
         )
 
         round_data = {}
-        for element in round_cards:
-            round_text = element.find_element(
-                By.XPATH, "./span[@class='card-text text-body-tertiary']"
-            ).text
-            round_title = element.find_element(
+        for element in round_cards[::-1]:
+            round_name = element.find_element(
                 By.XPATH, "./h5[@class='card-title']"
-            ).get_attribute("textContent") # .text strips trailing whitespace
+            ).get_attribute(
+                "textContent"
+            )  # .text strips trailing whitespace
 
-            # Extract the round number using regex
-            round_number = re.search(r"ROUND (\d+)", round_text)
-            if round_number:
-                round_number = int(round_number.group(1))
-
-            round_data[round_number] = round_title
+            round_description = element.find_element(
+                By.XPATH, "../following-sibling::*"
+            ).text.split("\n")[0]
+            round_data[round_name] = round_description
 
         return round_data
 
@@ -137,10 +134,13 @@ class Scraper:
         round_data = self.get_rounds(league_title)
 
         df_list = []
-        for i, round_title in round_data.items():
-            round_df = self.get_round_data(league_title, round_title)
+        for i, (round_name, round_description) in enumerate(round_data.items()):
+            round_df = self.get_round_data(league_title, round_name)
             time.sleep(np.random.uniform(low=1, high=2, size=1)[0])
             round_df["round_number"] = i
+            round_df["round_name"] = round_name
+            round_df["round_description"] = round_description
+
             df_list.append(round_df)
 
         league_df = pd.concat(df_list, axis=0)
