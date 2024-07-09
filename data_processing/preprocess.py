@@ -38,6 +38,12 @@ def build_round_submissions(df, save_path=None):
     ]
 
     round_submissions = df[cols].drop_duplicates()
+    round_submissions["spotify_uri"] = (
+        round_submissions["spotify_link"]
+        .str.split("https://open.spotify.com/track/")
+        .str[-1]
+    )
+
     if save_path is not None:
         round_submissions.to_csv(save_path, index=False)
 
