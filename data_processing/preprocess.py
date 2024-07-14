@@ -22,7 +22,6 @@ class Preprocess:
 
         return self.df
 
-    @staticmethod
     def build_round_results(self, save_path=None):
         col_list = [
             "league_title",
@@ -156,7 +155,7 @@ class Preprocess:
 
         all_audio_features = all_audio_features.drop(
             ["type", "uri", "analysis_url"], axis=1
-        )
+        ).drop_duplicates()
         round_submissions = pd.merge(
             left=round_submissions,
             right=all_audio_features,
@@ -184,7 +183,7 @@ class Preprocess:
     def run(self, save_path=None):
         if save_path is not None:
             save_paths = {
-                table_type: os.path.join(table_type + ".csv")
+                table_type: os.path.join(save_path, table_type + ".csv")
                 for table_type in ["round_results", "round_submissions", "rounds"]
             }
         else:
