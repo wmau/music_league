@@ -8,9 +8,9 @@ class Preprocess:
     def __init__(self, player_map, df_path="./data/full_data.csv"):
         self.spotify = spotipy.Spotify(
             client_credentials_manager=SpotifyClientCredentials(),
-            requests_timeout=20,
+            requests_timeout=50,
             retries=5,
-            backoff_factor=20,
+            backoff_factor=0.4,
         )
 
         self.df = pd.read_csv(df_path)
@@ -138,6 +138,9 @@ class Preprocess:
 
         # Put artist IDs into a column.
         round_submissions["genres"] = genres.reset_index(drop=True)
+        round_submissions["primary_genre"] = round_submissions["genres"].apply(
+            lambda x: x[0] if len(x) > 0 else None
+        )
 
         return round_submissions
 
@@ -193,7 +196,9 @@ class Preprocess:
             }
 
         round_results = self.build_round_results(save_paths["round_results"])
-        round_submissions = self.build_round_submissions(save_paths["round_submissions"])
+        round_submissions = self.build_round_submissions(
+            save_paths["round_submissions"]
+        )
         rounds = self.build_rounds(save_paths["rounds"])
 
         return round_results, round_submissions, rounds
